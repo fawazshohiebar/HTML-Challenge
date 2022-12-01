@@ -1,7 +1,18 @@
 .man{
 background-color: orange;
+width: 20%;
 
 }
-.li{
-
+.first{
+    text-align: center ;
+}
+.menuee{
+    color: aqua;
+}
+.img{
+    width:45%
+}
+.unorder{
+    background-color: brown;
+    width: 50%;
 }
